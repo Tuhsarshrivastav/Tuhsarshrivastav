@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## I'm a Student, Full stack Developer !!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: bulid many projects
 - ⚡ Fun fact: I love to build faang company project
 
 ### Languages and Tools:
