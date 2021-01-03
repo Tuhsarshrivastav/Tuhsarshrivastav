@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm a Student, Full stack Developer !!
+## I'm a Student, Javascript Full stack Developer !!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: bulid many projects
