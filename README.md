@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img src="https://miro.medium.com/max/700/0*UqGyYmWCRQnjLzSk.jpg" />
 </p>
 
 ```js
@@ -14,6 +14,7 @@ class Bio extends SoftwareDeveloper {
 
 class Skills extends FullStackDeveloper {
   languages  = ['JavaScript', 'HTML' 'CSS' 'TypeScript' ''];
+  Css firemwork = ['Bootstrap','Material ui','Sass'];
   databases  = ['MySQL', 'MongoDB',];
   frameworks = ['React', 'React Native', 'Node', 'Express'];
 }
