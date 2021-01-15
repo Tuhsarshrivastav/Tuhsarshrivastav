@@ -8,6 +8,7 @@ import FullStackDeveloper from 'Tuhsarshrivastav';
 class Bio extends SoftwareDeveloper {
   name     = 'Tushar Shrivastav';
   title    = 'WAP/Mobile Developer';
+  email    =  ts3657@gmail.com
   current  = 'Student ';
   location = 'Jabalpur, MP';
 }
