@@ -14,7 +14,7 @@ class Bio extends SoftwareDeveloper {
 
 class Skills extends FullStackDeveloper {
   languages  = ['JavaScript', 'HTML' 'CSS' 'TypeScript' ''];
-  Css  = ['Bootstrap','Material ui','Sass'];
+  Css        = ['Bootstrap','Material ui','Sass'];
   databases  = ['MySQL', 'MongoDB',];
   frameworks = ['React', 'React Native', 'Node', 'Express'];
 }
