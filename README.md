@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/700/0*UqGyYmWCRQnjLzSk.jpg" />
+  <img src="https://i.postimg.cc/hjPfWgRS/full.jpg" />
 </p>
 
 ```js
