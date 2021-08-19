@@ -19,6 +19,8 @@
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+     <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>
+     <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
      <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
