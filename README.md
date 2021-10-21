@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning ** graphql and Typescript.**
+- 🌱 I’m currently learning **everything**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
