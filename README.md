@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://tushar-shrivastav-portfolio.netlify.app/)**
 
-- 📫 How to reach me **ts3657@gmail.com**
+- 📫 How to reach me **tusharshrivastav96@gmail.com**
 
 ## 🚀 Languages and Tools:
 
