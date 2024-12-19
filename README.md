@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Tushar Shrivastav/h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India/Jabalpur.</h3>
+<h3 align="center">I'm a Passionate Full Stack Software Engineer.</h3>
 <h4 align="center">My Tech Stack .</h4>
 <div>
      <img src="https://i.ibb.co/GT2X5fb/Copy-of-Copy-of-Full-Stack-Developer-1.png" width="100%">
