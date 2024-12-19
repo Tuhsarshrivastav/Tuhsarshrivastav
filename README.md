@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://tushar-shrivastav-portfolio.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://tushar-shrivastavdev-er5gg7446-tuhsarshrivastavs-projects.vercel.app/)**
 
 - 📫 How to reach me **tusharshrivastav96@gmail.com**
 
