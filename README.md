@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Tushar Shrivastav/h1>
 <h3 align="center">I'm a Passionate Full Stack Software Engineer.</h3>
-<h4 align="center">My Tech Stack .</h4>
+<h4 align="center">My Tech Stack</h4>
 <div>
      <img src="https://i.ibb.co/GT2X5fb/Copy-of-Copy-of-Full-Stack-Developer-1.png" width="100%">
 </div>
