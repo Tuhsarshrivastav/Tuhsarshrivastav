@@ -1,40 +1,29 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+# Hi there, I'm [Tushar Shrivastav] 👋
 
-<h1 align="center">Hi, I'm Tushar Shrivastav/h1>
-<h3 align="center">I'm a Passionate Full Stack Software Engineer.</h3>
-<h4 align="center">My Tech Stack</h4>
-<div>
-     <img src="https://i.ibb.co/GT2X5fb/Copy-of-Copy-of-Full-Stack-Developer-1.png" width="100%">
-</div>
+I'm a passionate **Full Stack JavaScript Developer** with experience in building scalable web applications. I specialize in working with frameworks like **React.js**, **Vue.js**, **Node.js**, and **Express.js**. My focus is on creating performant, user-friendly web and mobile applications while maintaining clean, reusable code.
 
+## 🚀 Technologies & Tools I Use
 
-## 🙋‍♂️ About Me
+- **Frontend:** React.js, Vue.js, HTML5, CSS3, JavaScript, TypeScript
+- **Backend:** Node.js, Express, Next.js
+- **Mobile:** React Native
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Cloud & DevOps:** AWS, Kubernetes, Docker, CI/CD, Terraform
+- **Design Systems:** Material UI, Vuetify
+- **Testing:** Jest
+- **Other Tools:** Git, GitHub, Version Control
 
-- 🌱 I’m currently learning **everything**
+## 💼 Currently Working
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+I'm currently working as a **Software Engineer** at **Codon Software Pvt. Ltd.**, where I build robust web applications and ensure seamless integration of features. I also enjoy contributing to open-source projects and collaborating with developers across the world.
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://tushar-shrivastavdev-er5gg7446-tuhsarshrivastavs-projects.vercel.app/)**
+## 🏋️‍♂️ Outside of Code
 
-- 📫 How to reach me **tusharshrivastav96@gmail.com**
+When I'm not coding, I’m a state champion **powerlifter** and enjoy competing and training. Fitness and discipline play an important role in my life and help me stay focused in my professional journey.
 
-## 🚀 Languages and Tools:
+## 📬 How to Reach Me
 
-<p align="left"><img src="https://www.canva.com/design/DAFxlxQNHvQ/oALUo3_BM31XOKGLrjHLkQ/edit?utm_content=DAFxlxQNHvQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
-</p>
+Feel free to connect with me on:
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=Tuhsarshrivastav&count_private=true&show_icons=true&theme=radical)
-    
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuhsarshrivastav&show_icons=true&theme=radical)
-    
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/tushar-shrivastava-2b23691b2/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/TusharS70759853"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/tushar_shrivastava12/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
+- [LinkedIn](https://www.linkedin.com/in/tushar-shrivastav1)
+- [Email](mailto:tusharshrivastav96@gmail.com)
