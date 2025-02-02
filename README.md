@@ -7,7 +7,7 @@ I'm a passionate **Full Stack JavaScript Developer** with experience in building
 - **Frontend:** React.js, Vue.js, HTML5, CSS3, JavaScript, TypeScript
 - **Backend:** Node.js, Express, Next.js
 - **Mobile:** React Native
-- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Databases:** MongoDB, MySQL
 - **Cloud & DevOps:** AWS, Kubernetes, Docker, CI/CD, Terraform
 - **Design Systems:** Material UI, Vuetify
 - **Testing:** Jest
